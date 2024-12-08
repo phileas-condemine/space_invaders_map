@@ -1,5 +1,5 @@
 name,Latitude,Longitude
-"Space Invader PA__0290 & PA_0532, 113 rue Oberkampf",48.865889,2.37815
+"Space Invader PA_0290 & PA_0532, 113 rue Oberkampf",48.865889,2.37815
 "Space Invader PA_0002, 45 rue Quincampoix",48.861071,2.350494
 "Space Invader PA_0003, 14 rue de la Montagne Sainte-GeneviÃ¨ve",48.848851,2.348519
 "Space Invader PA_0004, 22 rue Monge",48.847105,2.351085
@@ -89,7 +89,7 @@ name,Latitude,Longitude
 "Space Invader PA_0106, 2 rue Charlemagne",48.853901,2.361889
 "Space Invader PA_0107, pont d'IÃ©na, rive gauche nord",48.859382,2.292935
 "Space Invader PA_0108, tunnel de l'avenue de New York",48.859936,2.29058
-"Space Invader PA_0109, 587 & 1081, tuyaux d'Ã©vacuation du Centre Pompidou",48.859764,2.352534
+"Space Invader PA_0109, PA_587 & PA_1081, tuyaux d'Ã©vacuation du Centre Pompidou",48.859764,2.352534
 "Space Invader PA_0110, 91 rue Quincampoix",48.86263,2.35125
 "Space Invader PA_0111, 20 rue Hermel",48.891598,2.344664
 "Space Invader PA_0112, 19 rue Gassendi",48.835,2.326943
@@ -339,7 +339,7 @@ name,Latitude,Longitude
 "Space Invader PA_0429, 22 avenue Carnot",48.876277,2.292479
 "Space Invader PA_0430, le Comptoire GÃ©nÃ©ral",48.872183,2.36513
 "Space Invader PA_0431, rond-point de la porte de Vincennes",48.847269,2.414288
-"Space Invader PA_0432 & 573, 24 rue de l'Est",48.871131,2.393294
+"Space Invader PA_0432 & PA_573, 24 rue de l'Est",48.871131,2.393294
 "Space Invader PA_0433, 33 rue de Sibuet",48.843322,2.402278
 "Space Invader PA_0434, 19 rue Lamblardie",48.840725,2.39799
 "Space Invader PA_0436, Centre culturel de Serbie",48.860945,2.350814
@@ -372,7 +372,7 @@ name,Latitude,Longitude
 "Space Invader PA_0466, 51 rue de la Fontaine au Roi",48.868146,2.373402
 "Space Invader PA_0467, parc de Belleville",48.871567,2.384969
 "Space Invader PA_0468, 65 rue Montorgueil",48.86592,2.34698
-"Space Invader PA_0470, 1057 & 1062, 64 rue Tiquetonne",48.864784,2.345683
+"Space Invader PA_0470, PA_1057 & PA_1062, 64 rue Tiquetonne",48.864784,2.345683
 "Space Invader PA_0471, 83 rue de MÃ©nilmontant",48.868821,2.390091
 "Space Invader PA_0472, 11Z rue Gaby Sylvia",48.85904,2.371362
 "Space Invader PA_0473, 3 rue Saint-Sulpice",48.851471,2.338006
@@ -553,7 +553,7 @@ name,Latitude,Longitude
 "Space Invader PA_0677, 46 rue de Seine",48.854694,2.336777
 "Space Invader PA_0678, 6 rue de Seine",48.857238,2.336413
 "Space Invader PA_0679, 1 rue de l'ArbalÃ¨te",48.840425,2.349749
-"Space Invader PA_0680 & 1099, 4 rue de la Mare",48.868496,2.388493
+"Space Invader PA_0680 & PA_1099, 4 rue de la Mare",48.868496,2.388493
 "Space Invader PA_0681, 10 rue d'Ormesson",48.855447,2.362038
 "Space Invader PA_0682, 21 rue des Francs-Bourgeois",48.856802,2.362962
 "Space Invader PA_0683, 132 boulevard Richard Lenoir",48.865832,2.370005
@@ -638,7 +638,7 @@ name,Latitude,Longitude
 "Space Invader PA_0774, 119 avenue Parmentier",48.868623,2.371913
 "Space Invader PA_0775, 4 place des Victoires",48.865825,2.340667
 "Space Invader PA_0776, 14 rue Castellane",48.87263,2.324096
-"Space Invader PA_0778, 0779, 0782, 0783, 0784, 0786, 0787, 0788, 0789 & 0790, pÃ©riphÃ©rique le long des immeubles de la rue Maryse BastiÃ©",48.82046,2.37492
+"Space Invader PA_0778, PA_0779, PA_0782, PA_0783, PA_0784, PA_0786, PA_0787, PA_0788, PA_0789, PA_0790, PA_0791, PA_0792, PA_0793, PA_0794, PA_0804, PA_0805, PA_0806 & PA_0807, pÃ©riphÃ©rique le long des immeubles de la rue Maryse BastiÃ©",48.82046,2.37492
 "Space Invader PA_0780, 12 rue Madame",48.851286,2.331966
 "Space Invader PA_0781, 2 rue des Boulangers",48.846086,2.35432
 "Space Invader PA_0795, 8 cour du Commerce Saint-AndrÃ©",48.852734,2.33924
@@ -710,7 +710,7 @@ name,Latitude,Longitude
 "Space Invader PA_0869, quai de Valmy",48.871945,2.364654
 "Space Invader PA_0870, au dessus de chez Prune",48.8717,2.364576
 "Space Invader PA_0871, 29 rue de Terre Neuve",48.854906,2.399089
-"Space Invader PA_0872 & 1148, Le Point (pas si) EphÃ©mÃ¨re",48.881777,2.368809
+"Space Invader PA_0872 & PA_1148, Le Point (pas si) EphÃ©mÃ¨re",48.881777,2.368809
 "Space Invader PA_0873, rue du Chat qui PÃ¨che",48.85318,2.346164
 "Space Invader PA_0874, 18 rue de la Huchette",48.85304,2.34564
 "Space Invader PA_0875, 2 rue des Peupliers",48.825452,2.353816
@@ -997,7 +997,7 @@ name,Latitude,Longitude
 "Space Invader PA_1188, 81 rue d'Assas",48.842502,2.334858
 "Space Invader PA_1189, 43 rue LacÃ©pÃ¨de",48.844147,2.350387
 "Space Invader PA_1190, 2 rue Princesse Leia",48.852589,2.334419
-"Space Invader PA_1191, 1192, 1193, 1194 & 1195, le long de la D126B",48.814755,2.355387
+"Space Invader PA_1191, PA_1192, PA_1193, PA_1194 & PA_1195, le long de la D126B",48.814755,2.355387
 "Space Invader PA_1196, 2 impasse Mathieu",48.8411,2.313336
 "Space Invader PA_1197, 6 rue de l'ArrivÃ©e",48.843878,2.322431
 "Space Invader PA_1198, 145 boulevard Raspail",48.842276,2.329685
@@ -1027,16 +1027,16 @@ name,Latitude,Longitude
 "Space Invader PA_1222, 90 avenue de la RÃ©publique",48.863935,2.380904
 "Space Invader PA_1223, 1 place de Passy",48.85785,2.27793
 "Space Invader PA_1224, 57 avenue du docteur Netter",48.844904,2.405649
-"Space Invader PA_1225 & 1226, 100 cours de Vincennes",48.84691,2.40845
+"Space Invader PA_1225 & PA_1226, 100 cours de Vincennes",48.84691,2.40845
 "Space Invader PA_1227, 129 coulÃ©e verte RenÃ©-Dumont",48.844418,2.381721
 "Space Invader PA_1228, 22 rue Watteau",48.834496,2.357361
 "Space Invader PA_1229, 62 rue Lamartine",48.876716,2.339576
 "Space Invader PA_1230, 7 rue Lafayette",48.873571,2.334758
-"Space Invader PA_1231 & 1237, 200 avenue Jean JaurÃ¨s",48.888359,2.392077
+"Space Invader PA_1231 & PA_1237, 200 avenue Jean JaurÃ¨s",48.888359,2.392077
 "Space Invader PA_1232, 102 rue du Mont Cenis",48.8953,2.34591
 "Space Invader PA_1233, 2 rue des Poissonniers",48.88558,2.34984
 "Space Invader PA_1234, ObÃ©lisque de Villeneuve-le-Comte",48.79161,2.86916
-"Space Invader PA_1235 & 1236, 72 rue Claude Bernard",48.840436,2.346044
+"Space Invader PA_1235 & PA_1236, 72 rue Claude Bernard",48.840436,2.346044
 "Space Invader PA_1238, CimetiÃ¨re de la Courneuve",48.936142,2.40488
 "Space Invader PA_1239, 54 avenue Paul Vaillant Couturier",48.920939,2.411101
 "Space Invader PA_1240, 114 boulevard Vincent Auriol",48.83349,2.36299
@@ -1102,7 +1102,7 @@ name,Latitude,Longitude
 "Space Invader PA_1301, 11 rue FranÃ§ois de NeufchÃ¢teau",48.85615,2.38256
 "Space Invader PA_1302, 1 rue Cail",48.88261,2.36154
 "Space Invader PA_1303, 3 rue Saint-Claude",48.86007,2.36654
-"Space Invader PA_1304 & 1305, 17 rue Monge",48.84787,2.35083
+"Space Invader PA_1304 & PA_1305, 17 rue Monge",48.84787,2.35083
 "Space Invader PA_1306, 46 avenue Pierre Brossolette",48.819987,2.310661
 "Space Invader PA_1307, parc de Bercy",48.83654,2.37973
 "Space Invader PA_1308, 103 avenue Edouard Vaillant",48.83359,2.24405
